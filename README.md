@@ -40,6 +40,3 @@ The project enforces a strict **Structural Design** approach (behavioral logic i
 * `dff.v` & `jkff.v`: Custom Flip-Flop modules.
 * `machine_d.v` & `machine_jk.v`: Top-level FSM structural modules.
 * `machine_d_tb.v` & `machine_jk_tb.v`: Testbenches for waveform verification.
-
-## ⚠️ Disclaimer
-This repository contains a solution for a university laboratory project. If you are currently taking this course, please be aware of academic integrity and plagiarism policies.
